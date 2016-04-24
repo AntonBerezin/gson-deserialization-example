@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "message": "Data was retrieved",
+  "data": {
+    "name" : "John",
+    "surname": "Smith"
+  }
+}
